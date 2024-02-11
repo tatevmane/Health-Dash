@@ -24,4 +24,4 @@ Using USDA data to uncover links between poverty, food access, and obesity in Ea
 Data Sources:
 
 1. USDA: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
-2. 
+
