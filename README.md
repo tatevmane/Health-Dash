@@ -15,5 +15,6 @@ Using Census data to uncover links between poverty, food access, and obesity in 
 
 **This repo contains:**
 - A small EDA of the two datasets we worked with: food access and obesity
+- Write-up of process and findings
 - Screenshots of individual variable heat maps
 - Screenshot of full dashboard; "user interface"
